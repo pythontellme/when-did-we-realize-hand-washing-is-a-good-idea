@@ -1,2 +1,1 @@
-# when-did-we-realize-hand-washing-is-a-good-idea
-When did we realize that hand washing is a good idea?
+These are the files used in the "When did we realize hand washing is a good idea?" project on https://pythontellme.com.
